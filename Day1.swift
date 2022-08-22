@@ -83,4 +83,4 @@ let b = 2.0
 
 let c = a + b // Swift won't compile this line of code
 
-let c = a + Int(b) // Şeklinde
+let c = a + Int(b) // We can convert decimal to integer with Int()
